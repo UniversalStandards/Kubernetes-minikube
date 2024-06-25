@@ -31,7 +31,7 @@ require (
 	github.com/google/go-github/v62 v62.0.0
 	github.com/google/slowjam v1.1.1
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/go-getter v1.7.4
+	github.com/hashicorp/go-getter v1.7.5
 	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hooklift/iso9660 v1.0.0
 	github.com/jmoiron/sqlx v1.4.0
@@ -112,7 +112,7 @@ require (
 	github.com/campoy/embedmd v1.0.0 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/containerd/containerd v1.6.19 // indirect
+	github.com/containerd/containerd v1.6.26 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.14.3 // indirect
 	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
