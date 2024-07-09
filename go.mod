@@ -31,7 +31,7 @@ require (
 	github.com/google/go-github/v62 v62.0.0
 	github.com/google/slowjam v1.1.1
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/go-getter v1.7.4
+	github.com/hashicorp/go-getter v1.7.5
 	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hooklift/iso9660 v1.0.0
 	github.com/jmoiron/sqlx v1.4.0
@@ -112,7 +112,7 @@ require (
 	github.com/campoy/embedmd v1.0.0 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/containerd/containerd v1.6.19 // indirect
+	github.com/containerd/containerd v1.6.26 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.14.3 // indirect
 	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
@@ -222,14 +222,14 @@ require (
 	go.opentelemetry.io/otel/metric v1.27.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/image v0.11.0 // indirect
-	golang.org/x/net v0.25.0 // indirect
+	golang.org/x/image v0.18.0 // indirect
+	golang.org/x/net v0.26.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/genproto v0.0.0-20240401170217-c3f982113cda // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240513163218-0867130af1f8 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240521202816-d264139d666e // indirect
-	google.golang.org/grpc v1.64.0 // indirect
+	google.golang.org/grpc v1.64.1 // indirect
 	google.golang.org/protobuf v1.34.1 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
